@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Hi from reactserver project test env?
+          merge the react server with GIT and CI
         </p>
         <a
           className="App-link"
