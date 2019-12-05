@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          merge the react server with GIT and CI
+      new build appp for react server
         </p>
         <a
           className="App-link"
